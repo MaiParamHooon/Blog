@@ -9,7 +9,7 @@ $ npm install
 ```
 
 ```sh
-$ npm app.js
+$ node app.js
 # Visit http://localhost:5000
 ```
 
